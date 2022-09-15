@@ -40,25 +40,25 @@ Shows the switches used to enable blurring and pattern matching options.
 
 Shows the links to our website, contact, and version.
 
-![SideMenu](./Images/SideMenu.png)
+![SideMenu](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/SideMenu.png)
 
 ##### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
-![RegEx](./Images/RegEx.png)
+![RegEx](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/RegEx.png)
 
 ##### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
-![PlainText](./Images/PlainText.png)
+![PlainText](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/PlainText.png)
 
 ##### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](./Images/GUID.png)
+![GUID](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/GUID.png)
 
 #### Installation
 
@@ -86,4 +86,4 @@ Shows using Quick Select with GUID to pattern match and blur GUID values.
 - Select Extension button on menu bar
 - Select eye icon to make Opaque App visible on menu bar
 
-![VisibleExtension](./Images/VisibleExtension.png)
+![VisibleExtension](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/VisibleExtension.png)
