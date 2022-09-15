@@ -34,7 +34,7 @@ If you have any issues or would like to request new features, please let us know
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](https://github.com/OpaqueApp/ChromiumBrowserExtension/Images/Main.png)
+![Main](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/Main.png)
 
 ##### Side Menu of Opaque App 
 
