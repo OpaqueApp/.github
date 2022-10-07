@@ -1,9 +1,5 @@
 # Opaque Browser Extension
-Browser extension supporting:
-
-1. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-2. [Google Chrome](https://www.google.com/chrome/)
-3. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
+Browser extension supporting; Microsoft Edge, Google Chrome, Mozilla Firefox.
 
 Safely blur sensitive text and values. 
 
