@@ -1,7 +1,71 @@
 # Opaque Browser Extension
-Chromium-based browser extension, supporting Microsoft Edge and Google Chrome.
+Browser extension supporting:
+
+1. [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+2. [Google Chrome](https://www.google.com/chrome/)
+3. [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 Safely blur sensitive text and values. 
+
+![Main](./Images/RegExMarque.png)
+
+## Installation
+
+### Chromium
+
+If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
+
+#### Edge Extension Store
+
+This installation method provides automatic updates.
+
+- [Microsoft Edge Add-on - Opaque](https://microsoftedge.microsoft.com/addons/detail/opaque/bkemibmknilgdabdljohbheedpcfoiom)
+
+#### Chrome Web Store
+
+This installation method provides automatic updates.
+
+- [Chrome Web Store - Opaque](https://chrome.google.com/webstore/detail/opaque/fkmddlioggaohebmgmmhjfapibidoicd)
+
+#### Developer Mode
+
+This installation method uses the same extension submitted to the Edge and Chrome stores but it will not receive automatic updates.
+
+- Download [Opaque-Chromium-CurrentVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/Opaque-Chromium-CurrentVersion.zip)
+- Extract locally
+- Open Edge or Chrome Extension settings
+- Select Developer Mode
+- Select "Load unpacked" button
+- Navigate to where you extracted the zip archive
+- Select the folder
+- Select Extension button on menu bar
+- Select eye icon to make Opaque App visible on menu bar
+
+### Firefox
+
+If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/FirefoxBrowserExtension/issues)
+
+#### Extensions Store
+
+This installation method provides automatic updates.
+
+- [Firefox Add-on Extensions - Opaque](https://addons.mozilla.org/en-US/firefox/addon/opaqueapp/)
+
+#### Self-managed
+
+This installation method uses the same signed extension used in the Firefox store but it will not receive automatic updates.
+
+- Download [Opaque-Firefox-CurrentVersion.xpi](https://github.com/OpaqueApp/FirefoxBrowserExtension/raw/main/Opaque-Chromium-CurrentVersion.xpi)
+- Open Firefox
+- Open menu icon
+- Select Add-ons and Themes
+- Select the gear icon
+- Select Install Add-on From File...
+- Navigate to download location and select open
+- Select Add
+- Select Okay
+
+## Summary
 
 Broad set of options to blur text and values using explicit terms or pattern matching:
 
@@ -26,64 +90,36 @@ Built-in Quick Select options
 
 Great for screen sharing and screen captures!
 
-If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](https://github.com/OpaqueApp/ChromiumBrowserExtension/issues)
+If you have any issues or would like to request new features, please let us know - [Support and Feature Requests](
 
 #### Screenshots
 
-##### Main page of Opaque App 
+### Main page of Opaque App 
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/Main.png)
+![Main](./Images/Intro.png)
 
-##### Side Menu of Opaque App 
-
-Shows the links to our website, contact, and version.
-
-![SideMenu](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/SideMenu.png)
-
-##### Example of using RegEx to Blur
+### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
-![RegEx](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/RegEx.png)
+![RegEx](./Images/RegEx.png)
 
-##### Example of using Plain Text to Blur
+### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
-![PlainText](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/PlainText.png)
+![PlainText](./Images/PlainText.png)
 
-##### Example of using Quick Selection with GUID to Blur
+### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/GUID.png)
+![GUID](./Images/QuickSelect.png)
 
-#### Installation
+### Example of using CSS Properties to Blur
 
-##### Edge Extension Store
+Shows using CSS properties to pattern match and blur values.
 
-- Extension submitted 9/8/22
-- Currently under review
-- Will update with link to store listing when approved
-
-##### Chrome Web Store
-
-- Extension submitted 9/8/22
-- Currently under review
-- Will update with link to store listing when approved
-
-##### Developer Mode
-
-- Download [OpaqueAppExtension-LatestVersion.zip](https://github.com/OpaqueApp/ChromiumBrowserExtension/raw/main/OpaqueAppExtension-LatestVersion.zip)
-- Extract locally
-- Open Edge or Chrome Extension settings
-- Select Developer Mode
-- Select "Load unpacked" button
-- Navigate to where you extracted the zip archive
-- Select the folder
-- Select Extension button on menu bar
-- Select eye icon to make Opaque App visible on menu bar
-
-![VisibleExtension](https://github.com/OpaqueApp/ChromiumBrowserExtension/blob/main/Images/VisibleExtension.png)
+![GUID](./Images/CSS.png)
