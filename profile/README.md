@@ -7,7 +7,7 @@ Browser extension supporting:
 
 Safely blur sensitive text and values. 
 
-![Main](./Images/RegExMarque.png)
+![Main](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/RegExMarque.png)
 
 ## Installation
 
@@ -98,28 +98,28 @@ If you have any issues or would like to request new features, please let us know
 
 Shows the switches used to enable blurring and pattern matching options.
 
-![Main](./Images/Intro.png)
+![Main](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/Intro.png)
 
 ### Example of using RegEx to Blur
 
 Shows using RegEx to pattern match and blur text and values on example website.
 
-![RegEx](./Images/RegEx.png)
+![RegEx](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/RegEx.png)
 
 ### Example of using Plain Text to Blur
 
 Shows using Plain text to pattern match and blur text and values on example website.
 
-![PlainText](./Images/PlainText.png)
+![PlainText](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/PlainText.png)
 
 ### Example of using Quick Selection with GUID to Blur
 
 Shows using Quick Select with GUID to pattern match and blur GUID values.
 
-![GUID](./Images/QuickSelect.png)
+![GUID](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/QuickSelect.png)
 
 ### Example of using CSS Properties to Blur
 
 Shows using CSS properties to pattern match and blur values.
 
-![GUID](./Images/CSS.png)
+![GUID](https://raw.githubusercontent.com/OpaqueApp/.github/main/profile/Images/CSS.png)
